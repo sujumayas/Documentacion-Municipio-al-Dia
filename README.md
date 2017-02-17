@@ -8,7 +8,7 @@ Es por esto que el documento estará centrado en torno a explicar la estructura 
 
 Solo para probar algo de código: 
 
-```
+```js
 
 function test() {
   console.log("notice the blank line before this function?");
