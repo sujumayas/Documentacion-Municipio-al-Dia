@@ -1,8 +1,8 @@
 # Web Institucional
 
-En primer lugar, hay que dejar claro que no se están usando los "**Posts**" por defecto \("**Entradas**"\) que trae Wordpress. Para las noticias se ha creado un _**custom posttype **_llamado "news" o Noticias. 
+En primer lugar, hay que dejar claro que no se están usando los "**Posts**" por defecto \("**Entradas**"\) que trae Wordpress. Para las noticias se ha creado un **custom posttype  **llamado "news" o Noticias.
 
-Sí se está usando, sin embargo, la funcionalidad básica de "Pages" de Wordpress. 
+Sí se está usando, sin embargo, la funcionalidad básica de "Pages" de Wordpress.
 
 ##### Las páginas están divididas en áreas :
 
@@ -34,17 +34,22 @@ Sí se está usando, sin embargo, la funcionalidad básica de "Pages" de Wordpre
   * Sistema Nacional de Presupuesto
   * Sistema Nacional de Tesorería
 * Finanzas Municipales
+
   * El Presupuesto
+
     * Estructura del presupuesto municipal
 
     * Fases del proceso presupuestario
+
     * Presupuesto por Resultados
+
   * El presupuesto participativo
   * La contabilidad municipal
   * El patrimonio municipal
   * El sistema tributario municipal
 
-* Participación Ciudadana 
+* Participación Ciudadana
+
 * Enfoques para la Gestión Municipal
 * Derechos Humanos
 * Incorporación del enfoque de derechos humanos en la gestión de los gobiernos locales.
@@ -64,8 +69,6 @@ Sí se está usando, sin embargo, la funcionalidad básica de "Pages" de Wordpre
 * Enlaces de interés
 
 ##### 
-
- 
 
 ##### 
 
