@@ -44,6 +44,7 @@ Sí se está usando, sin embargo, la funcionalidad básica de "Pages" de Wordpre
     * Presupuesto por Resultados
 
   * El presupuesto participativo
+
   * La contabilidad municipal
   * El patrimonio municipal
   * El sistema tributario municipal
@@ -51,6 +52,7 @@ Sí se está usando, sin embargo, la funcionalidad básica de "Pages" de Wordpre
 * Participación Ciudadana
 
 * Enfoques para la Gestión Municipal
+
 * Derechos Humanos
 * Incorporación del enfoque de derechos humanos en la gestión de los gobiernos locales.
 * Gobiernos locales y acceso a la justicia.
