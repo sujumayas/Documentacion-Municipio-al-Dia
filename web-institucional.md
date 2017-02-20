@@ -2,79 +2,42 @@
 
 En primer lugar, hay que dejar claro que no se están usando los "**Posts**" por defecto \("**Entradas**"\) que trae Wordpress. Para las noticias se ha creado un **custom posttype  **llamado "news" o Noticias.
 
+## PAGES
+
 Sí se está usando, sin embargo, la funcionalidad básica de "Pages" de Wordpress.
 
-##### Las páginas están divididas en áreas :
+**Las páginas están divididas en áreas :**
 
-##### Área Institucional
+**Área Institucional**
 
-**Área extras**
+* Inicio
+* Nosotros
+* Consultas
+* Normas Legales
+* Biblioteca 
+* Boletines
+* Calendario Municipal
+* Oportunidades
+* Consulta del Mes
+* Consejo del Mes
+* Ayuda
+* Contacto
 
-##### Área de Quehacer Municipal:
+**Área de Quehacer Municipal \(+ páginas hijas\):**
 
 * Municipalidades del Perú 
 * Acción Municipal 
-  * Servicios públicos
-  * Servicios sociales
 * Modelos de ordenanzas y resoluciones 
-* Organización Municipal
-  * El Gobierno Municipal
-  * La Administración Municipal
-    * Estructura básica de la Administracion Municipal
-    * Sistemas Administrativos
-  * El sistema de Control
-* Inversión pública municipal
-  * El sistema Nacional de Abastecimiento
-  * Inversión
-  * Postinversión
-  * Preinversión
-  * Sistema Nacional de Contabilidad
-  * Sistema Nacional de Control
-  * Sistema Nacional de Inversión Pública - SNIP
-  * Sistema Nacional de Presupuesto
-  * Sistema Nacional de Tesorería
-* Finanzas Municipales
-
-  * El Presupuesto
-
-    * Estructura del presupuesto municipal
-
-    * Fases del proceso presupuestario
-
-    * Presupuesto por Resultados
-
-  * El presupuesto participativo
-
-  * La contabilidad municipal
-  * El patrimonio municipal
-  * El sistema tributario municipal
-
-* Participación Ciudadana
-
-* Enfoques para la Gestión Municipal
-
-* Derechos Humanos
-* Incorporación del enfoque de derechos humanos en la gestión de los gobiernos locales.
-* Gobiernos locales y acceso a la justicia.
-* La Acción Municipal en el proceso de reparaciones.
-* Gobierno local y cultura
-* Gobiernos Locales y Cultura.
-* Gestión Municipal, Desarrollo y Cultura.
-* Qué pueden hacer las Municipalidades.
-* Gobierno local y medio ambiente
-* ASPECTOS GENERALES DE CONTEXTO
-* El desarrollo sostenible
-* Las competencias ambientales
-* La gestión ambiental municipal
-* Instrumentos de gestión ambiental municipal
-* El plan integral de gestión ambiental de residuos sólidos - PIGARS
+* Organización Municipal 
+* Inversión pública municipal 
+* Finanzas Municipales 
+* Participación Ciudadana 
+* Enfoques para la Gestión Municipal 
 * Enlaces de interés
 
-##### 
+## CUSTOM POSTTYPES
 
-##### 
-
-##### 
+Para el trabajo con contenidos de tipos específicos no únicos, se trabajó creando Custom Posttypes. Aquí les damos la lista de todos los que hemos construído para la web. Cada uno de ellos tienen su propio template en el código del tema. 
 
 ##### Lista de custom postypes:
 
