@@ -10,7 +10,7 @@
   * [Calendario de Obligaciones](calendario-de-obligaciones.md)
   * [Oportunidades](oportunidades.md)
 * [Red Social ](red-social.md)
-* Escuela Virtual
+* [Escuela Virtual](escuela-virtual.md)
 * [Extras](extras.md)
   * Integración con Mailchimp
 * [Arquitectura de Contenidos ](arquitectura-de-contenidos.md)
