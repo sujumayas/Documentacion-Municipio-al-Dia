@@ -37,7 +37,7 @@ Sí se está usando, sin embargo, la funcionalidad básica de "Pages" de Wordpre
 
 ## CUSTOM POSTTYPES
 
-Para el trabajo con contenidos de tipos específicos no únicos, se trabajó creando Custom Posttypes. Aquí les damos la lista de todos los que hemos construído para la web. Cada uno de ellos tienen su propio template en el código del tema. 
+Para el trabajo con contenidos de tipos específicos no únicos, se trabajó creando Custom Posttypes. Aquí les damos la lista de todos los que hemos construído para la web. Cada uno de ellos tienen su propio template en el código del tema.
 
 ##### Lista de custom postypes:
 
