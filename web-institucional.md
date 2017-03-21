@@ -1,8 +1,8 @@
-# Web Institucional
+# Web Institucional {#web}
 
 En primer lugar, hay que dejar claro que no se están usando los "**Posts**" por defecto \("**Entradas**"\) que trae Wordpress. Para las noticias se ha creado un **custom posttype  **llamado "news" o Noticias.
 
-## PAGES
+## PAGES {#pages}
 
 Sí se está usando, sin embargo, la funcionalidad básica de "Pages" de Wordpress.
 
@@ -35,7 +35,7 @@ Sí se está usando, sin embargo, la funcionalidad básica de "Pages" de Wordpre
 * Enfoques para la Gestión Municipal 
 * Enlaces de interés
 
-## CUSTOM POSTTYPES
+## CUSTOM POSTTYPES {#custom-posttypes}
 
 Para el trabajo con contenidos de tipos específicos no únicos, se trabajó creando Custom Posttypes. Aquí les damos la lista de todos los que hemos construído para la web. Cada uno de ellos tienen su propio template en el código del tema.
 
@@ -49,6 +49,33 @@ Para el trabajo con contenidos de tipos específicos no únicos, se trabajó cre
 * news                              // Noticias
 * legalrule                        // Normas Legales
 * faconsultations            // Consultas
+
+## PLUGINS {#plugins}
+
+* Advanced Custom Fields PRO
+* Bulk Password Reset	
+* Contact Form 7	
+* Contact Form DB	
+* Easy Ticket Support	
+* Export Users to CSV	
+* Flaming Password Reset	
+* Flamingo
+* Importador de WordPress	
+* Join My Multisite
+* Loco Translate	
+* Multisite Plugin Manager
+* Really Simple SSL	
+* Redux Framework	
+* SSL Insecure Content Fixer
+* Tesla Login Customizer	
+* WooThemes Helper
+* WP All Export Pro
+* Buddypress
+* rtMedia for WordPress, BuddyPress and bbPress	
+* Sensei
+* bbPress
+* GD bbPress Tools
+* Consultas
 
 
 
