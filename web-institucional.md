@@ -53,25 +53,25 @@ Para el trabajo con contenidos de tipos específicos no únicos, se trabajó cre
 ## PLUGINS {#plugins}
 
 * Advanced Custom Fields PRO
-* Bulk Password Reset	
-* Contact Form 7	
-* Contact Form DB	
-* Easy Ticket Support	
-* Export Users to CSV	
-* Flaming Password Reset	
+* Bulk Password Reset    
+* Contact Form 7    
+* Contact Form DB    
+* Easy Ticket Support    
+* Export Users to CSV    
+* Flaming Password Reset    
 * Flamingo
-* Importador de WordPress	
+* Importador de WordPress    
 * Join My Multisite
-* Loco Translate	
+* Loco Translate    
 * Multisite Plugin Manager
-* Really Simple SSL	
-* Redux Framework	
+* Really Simple SSL    
+* Redux Framework    
 * SSL Insecure Content Fixer
-* Tesla Login Customizer	
+* Tesla Login Customizer    
 * WooThemes Helper
 * WP All Export Pro
 * Buddypress
-* rtMedia for WordPress, BuddyPress and bbPress	
+* rtMedia for WordPress, BuddyPress and bbPress    
 * Sensei
 * bbPress
 * GD bbPress Tools

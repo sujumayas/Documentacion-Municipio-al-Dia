@@ -32,5 +32,3 @@ El sistema de consultas en su totalidad ha sido construido como un Plugin de Wor
 
 
 
-
-
