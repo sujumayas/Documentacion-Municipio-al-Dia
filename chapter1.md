@@ -26,6 +26,6 @@ Tomando esto en cuenta, las secciones de este documento se organizarán también
 * Conocer cómo crear y modificar plugins
 * Conocer la metodología de integración de Ajax en Wordpress.
 * Estar preparado para leer documentación en Inglés. 
-
+* 
 
 
