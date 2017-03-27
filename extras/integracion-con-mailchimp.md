@@ -14,5 +14,19 @@ La integración con Mailchimp tiene dos partes: **Normas Legales** y **Obligacio
 
 
 
+Estas páginas crean RSS Feeds que luego se utilizan en Mailchimp de la siguiente forma:
+
+### **EDITORIAL:**
+
+![](/assets/Boletin - Editorial.png)
+
+### OBLIGACIONES: 
+
+![](/assets/Boletin - Obligaciones.png)
+
+### NORMAS LEGALES: 
+
+![](/assets/Boletin - Normas.png)
+
 
 
