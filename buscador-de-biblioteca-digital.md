@@ -1,6 +1,6 @@
 ## Buscador de Biblioteca Digital
 
-La biblioteca digital puede tener archivos de audio o pdf, y son artículos
+La biblioteca digital está compuesta por artículos en PDF o Videos principalmente. Ambos tipos de documentos se buscan de forma similar y en el mismo lugar. Cuentan con un buscador Ajax. 
 
 ![](/assets/biblioteca.png)
 

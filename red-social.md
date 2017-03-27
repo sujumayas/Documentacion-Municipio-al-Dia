@@ -1,4 +1,4 @@
-# RED SOCIAL  {#red-social}
+#  {#red-social}
 
 
 
