@@ -2,7 +2,7 @@
 
 La biblioteca digital puede tener archivos de audio o pdf, y son artículos
 
-![](/assets/05 biblioteca.png)
+![](/assets/biblioteca.png)
 
 **Los siguientes templates y archivos han sido utilizados:**
 

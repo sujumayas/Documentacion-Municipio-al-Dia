@@ -4,7 +4,7 @@ Sección que contiene una base de normas legales referidas a la gestión municip
 
 Esta sección se ha construido con herramientas integradas en el desarrollo de Wordpress mismo. Se creó un custom posttype con custom fields \(usando [ACF](https://www.advancedcustomfields.com/)\). Y aparte del query simple de normas legales \(que retorna TODAS las normas legales ordenadas por fecha de publicación de la norma\), se construyó una solución de buscador con AJAX.
 
-![](/assets/04 normas legales.png)
+![](/assets/normas legales.png)
 
 **Los siguientes templates y archivos han sido utilizados:**
 

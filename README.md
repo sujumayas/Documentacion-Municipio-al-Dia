@@ -12,6 +12,6 @@ Es por esto que el documento estará centrado en torno a explicar la estructura 
 * En Red Social y en Escuela Virtual centrarse en la descripción general y el uso de plugins. 
 * Al final del manual presentar una lista de Artículos de información adicional. 
 * Explicar cómo funciona el sistema de usuarios : Login y Registro en el Multisite. 
-* 
+
 
 

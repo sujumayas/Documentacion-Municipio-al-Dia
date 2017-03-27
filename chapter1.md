@@ -19,6 +19,10 @@ Tomando esto en cuenta, las secciones de este documento se organizarán también
 6. Extras
    1. Integración de Mailchimp
 
+## Estructura del Multisite y gestión de usuarios únicos:
+
+Es importante notar que el Multisite nos permite tener un único usuario a lo largo de toda la plataforma. De esta forma, los usuarios de la web o de la escuela pueden entrar a la red social y hacer uso de sus servicios y viceversa. Esto implica, también, que en toda la plataforma tenemos un usuario único así que es importante notar que a veces algo que pase con un usuario en uno de los sistemas podría influenciar al otro. 
+
 ## Perfil de Soporte Técnico para la web de Municipio Al día:
 
 * Conocimiento Avanzado de PHP, HTML, AJAX, Javascript, CSS y SQL
