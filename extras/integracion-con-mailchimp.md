@@ -30,13 +30,31 @@ Estas páginas crean RSS Feeds que luego se utilizan en Mailchimp de la siguient
 
 # RED SOCIAL {#red-social}
 
-La red social ha sido construida con [BuddyPress](https://buddypress.org/) y [rtMedia](https://rtmedia.io/).
-
-
-
-
+La red social ha sido construida con [BuddyPress](https://buddypress.org/) y [rtMedia](https://rtmedia.io/). Tiene un diseño hecho a la medida y un template construido en base al tema Evolve. 
 
 # ESCUELA VIRTUAL {#red-social}
 
-La Escuela Virtual  ha sido construida con [Sensei LMS](https://woocommerce.com/products/sensei/). La versión que estamos usando es antigua \(cuando aún era parte del tema Canvas y no lo habían comenzado a vender por separado 2015\). Y sobre esta versión se han hecho muchos cambios. No recomendamos actualizar ni cambiar de tema la escuela.
+La Escuela Virtual  ha sido construida con [Sensei LMS](https://woocommerce.com/products/sensei/). La versión que estamos usando es antigua \(cuando aún era parte del tema Canvas y no lo habían comenzado a vender por separado 2015\). Sobre esta versión se han hecho muchos cambios. No recomendamos actualizar ni cambiar de tema la escuela.
+
+La Escuela Virtual de Municipio al Día cuenta con una instalación de [BBPress](https://bbpress.org/) que maneja toda la funcionalidad de los Foros de cursos, en donde estudiantes y profesores pueden discutir sobre los temas de los cursos. Estos foros son privados y los templates están construidos a la medida encima de la funcionalidad de estos plugins. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
