@@ -21,11 +21,12 @@ Tomando esto en cuenta, las secciones de este documento se organizarán también
 
 ## Perfil de Soporte Técnico para la web de Municipio Al día:
 
+* Conocimiento Avanzado de PHP, HTML, AJAX, Javascript, CSS y SQL
 * Conocer de Wordpress y de la creación de Temas en Wordpress 
 * Conocer cómo funciona una instalación de Wordpress Multisite.
 * Conocer cómo crear y modificar plugins
 * Conocer la metodología de integración de Ajax en Wordpress.
 * Estar preparado para leer documentación en Inglés. 
-* 
+
 
 

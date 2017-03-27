@@ -4,6 +4,8 @@
 
 El sistema de consultas en su totalidad ha sido construido como un Plugin de Wordpress.
 
+![](/assets/03 consultas.png)
+
 **FILES**
 
 * **consultas-cpt.php**
