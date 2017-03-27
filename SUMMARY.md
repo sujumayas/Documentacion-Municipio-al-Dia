@@ -1,4 +1,4 @@
-# Summary
+# Lista de Temas
 
 * [Introduction](README.md)
 * [Estructura General del Proyecto](chapter1.md)
@@ -13,5 +13,6 @@
   * [Integración con Mailchimp](extras/integracion-con-mailchimp.md)
   * [Red Social](extras/red-social.md)
   * [Escuela Virtual](extras/escuela-virtual.md)
-* [Arquitectura de Contenidos ](arquitectura-de-contenidos.md)
+
+
 

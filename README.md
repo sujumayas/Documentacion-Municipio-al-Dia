@@ -6,12 +6,3 @@ Este documento no es un manual de construcción de la plataforma Municipio al D�
 
 Es por esto que el documento estará centrado en torno a explicar la estructura general de la plataforma y luego, en un segundo momento, se explicarán las partes y cómo funcionan cada una de ellas. No entraremos en detalles sobre las tecnologías usadas, puesto que todas son tecnologías Open Source ligadas al desarrollo de Wordpress, con lenguajes de programación conocidos por todos como HTML5, CSS, PHP y Javascript. Las librerías utilizadas son también todas de libre acceso como Jquery, Vue2.js y similares. Y los plugins utilizados para Wordpress son en su mayoría también gratuitos con algunas excepciones que mencionaremos en su momento.
 
-\#TODO:
-
-* Describir para qué sirve cada file que esté relacionado a cada parte de la plataforma.
-* En Red Social y en Escuela Virtual centrarse en la descripción general y el uso de plugins. 
-* Al final del manual presentar una lista de Artículos de información adicional. 
-* Explicar cómo funciona el sistema de usuarios : Login y Registro en el Multisite. 
-
-
-
