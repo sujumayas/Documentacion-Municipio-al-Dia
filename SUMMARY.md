@@ -1,4 +1,4 @@
-# Lista de Temas
+# Summary
 
 * [Introduction](README.md)
 * [Estructura General del Proyecto](chapter1.md)
@@ -9,10 +9,5 @@
   * [Buscador de Normas Legales](buscador-de-normas-legales.md)
   * [Calendario de Obligaciones](calendario-de-obligaciones.md)
   * [Oportunidades](oportunidades.md)
-* [Extras](extras.md)
-  * [Integración con Mailchimp](extras/integracion-con-mailchimp.md)
-  * [Red Social](extras/red-social.md)
-  * [Escuela Virtual](extras/escuela-virtual.md)
-
-
+* [Extras](extras/integracion-con-mailchimp.md)
 
