@@ -8,24 +8,37 @@ El sistema de consultas en su totalidad ha sido construido como un Plugin de Wor
 
 **FILES**
 
-* **consultas-cpt.php**
-* **consultas-fields.php**
+* **consultas-cpt.php **
+  * Definición del Custom Posttype del plugin de consultas
+* **consultas-fields.php **
+  * Definición del Custom Posttype del plugin de consultas
 * **consultas-functions.php**
+  * Funciones del plugin de consultas
 * **consultas-plugin.php**
-* **consultas-shortcodes.php**
+  * Definición del plugin de consultas. 
+* **consultas-shortcodes.php **
+  * Shortcodes para usar en el html. 
 * **content-panelconsultor.php**
-* **content-panelmoderador.php**
-* **content-public.php**
-* **single-consulta.php**
-* **single-consultapublic.php**
+  * Template del panel de Consultor
+* **content-panelmoderador.php **
+  * Template del panel del Moderador
+* **content-public.php **&gt; 
+  * Template del Panel de Usuario
+* **single-consulta.php **&gt; 
+  * Template de Consulta
+* **single-consultapublic.php **&gt; 
+  * Template Público de Consulta
 * **includes/**
-  * **consultor.php**
+  * **consultor.php **
+    * Acciones del Consultor
   * **moderador.php**
+    * Acciones del Moderador + Email Absolver. 
 * **js/**
   * **consulta.js**
+    * Manejo de la funcionalidad del Ajax para el plugin de Consultas
 * **templates/**
-  * **archive-consulta.php**
-  * **single-consulta.php**
+  * **archive-consulta.php **
+  * **single-consulta.php **
   * **template-consultasfrecuentes.php**
   * **template-consultor.php**
   * **template-email.php**
