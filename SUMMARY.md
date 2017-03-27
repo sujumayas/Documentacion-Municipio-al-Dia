@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Introducción](README.md)
 * [Estructura General del Proyecto](chapter1.md)
 * [Migración, Bases de Datos y Requerimientos de Hosting](migracion-bases-de-datos-y-requerimientos-de-hosting.md)
 * [Web Institucional](web-institucional.md)

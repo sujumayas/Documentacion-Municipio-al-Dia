@@ -14,14 +14,16 @@ Tomando esto en cuenta, las secciones de este documento se organizarán también
    3. Buscador de Biblioteca digital
    4. Calendario de Obligaciones
    5. Oportunidades
-4. Red Social \(red.minicipioaldia.com\)
-5. Escuela Virtual \(cursos.minicipioaldia.com
-6. Extras
+4. Extras
    1. Integración de Mailchimp
+   2. Red Social \(red.minicipioaldia.com
+   3. Escuela Virtual \(cursos.minicipioaldia.com
+
+
 
 ## Estructura del Multisite y gestión de usuarios únicos:
 
-Es importante notar que el Multisite nos permite tener un único usuario a lo largo de toda la plataforma. De esta forma, los usuarios de la web o de la escuela pueden entrar a la red social y hacer uso de sus servicios y viceversa. Esto implica, también, que en toda la plataforma tenemos un usuario único así que es importante notar que a veces algo que pase con un usuario en uno de los sistemas podría influenciar al otro. 
+Es importante notar que el Multisite nos permite tener un único usuario a lo largo de toda la plataforma. De esta forma, los usuarios de la web o de la escuela pueden entrar a la red social y hacer uso de sus servicios y viceversa. Esto implica, también, que en toda la plataforma tenemos un usuario único así que es importante notar que a veces algo que pase con un usuario en uno de los sistemas podría influenciar al otro.
 
 ## Perfil de Soporte Técnico para la web de Municipio Al día:
 

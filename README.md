@@ -1,6 +1,4 @@
-# Notas Introductorias
-
-Last Edit: 16 Feb 2017
+# Introducción
 
 Este documento no es un manual de construcción de la plataforma Municipio al Día. Es simplemente un recopilatorio de las partes, herramientas y procesos que siguió el equipo que lo desarrolló para que, en el futuro, si alguien necesitase buscar cómo funciona algo, o cambiar algún elemento, en este documento encuentre un punto de partida para cualquier desarrollo posterior.
 
